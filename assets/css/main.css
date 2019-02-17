@@ -1705,8 +1705,9 @@ header li ul.sub_menu li a:hover {
 
 header.sticky_header {
   background-color: #18181c;
+  border-bottom: 7px solid blue;
   margin: 0;
-  padding: 5px;
+  padding: 0px;
   -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
   box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
   -webkit-transition: all ease-in-out 0.4s;
