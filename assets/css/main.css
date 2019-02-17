@@ -1652,7 +1652,7 @@ header .logo img {
 }
 header ul.menu li a.nav-link {
   padding: 20px 12px !important;
-  font-size: 12px;
+  font: 20px bold;
   letter-spacing: 1px;
   font-weight: 400;
   display: block;
